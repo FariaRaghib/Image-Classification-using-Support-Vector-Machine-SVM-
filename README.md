@@ -20,8 +20,8 @@ scikit-image\
 pickle
 ## Steps to Run
 -Clone the repository:
-### git clone https://github.com/FariaRaghib/ImageClassificationusingSupportVectorMachine (SVM)
-### cd Image Classification using Support Vector Machine (SVM)
+### git clone https://github.com/FariaRaghib/Image-Classification-using-Support-Vector-Machine-SVM
+### cd Image-Classification-using-Support-Vector-Machine-SVM
 -Install the required Python packages:
 ### pip install scikit-learn numpy scikit-image
 -Set up the dataset:
